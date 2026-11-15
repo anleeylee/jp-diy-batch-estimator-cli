@@ -1,0 +1,5 @@
+[project]
+name = "jp-diy-batch-estimator-cli"
+version = "1.0.0"
+description = "Offline batch material estimator for Japanese renovation and DIY projects. https://sumaitools.com/"
+requires-python = ">=3.10"
