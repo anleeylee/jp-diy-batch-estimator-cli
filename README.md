@@ -51,6 +51,7 @@ jp-diy-batch-estimator-cli/
 │   └── concrete.py
 ├── examples/rooms_sample.csv
 ├── tests/
+├── index.html
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
